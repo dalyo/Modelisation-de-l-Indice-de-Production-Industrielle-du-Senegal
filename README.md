@@ -8,4 +8,5 @@ modéliser cet indice selon les données disponibles et en déduire ses caracté
 les données mensuelles de l’Indice de Production Industrielle Sénégalais pour la période allant du 1 janvier 2008 
 au 1 décembre 2017.
 Notre étude portera sur la modelisation SARIMA avec la base de donnée IPI.csv. Ensuite une nous avons fais une modélisation VAR.
-Le rapport d'analyse complet est Projet_Séries_Temporelles_Dalyo_Sid_Ousmane_OURBA.pdf.
+Le rapport d'analyse complet est Projet_Séries_Temporelles_Dalyo_Sid_Ousmane_OURBA.pdf. Tous les codes du livre sont 
+dans le fichier code_Projet.R.
